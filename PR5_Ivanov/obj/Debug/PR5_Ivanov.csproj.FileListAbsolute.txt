@@ -1,0 +1,16 @@
+D:\VS\PR5_Ivanov\bin\Debug\PR5_Ivanov.exe.config
+D:\VS\PR5_Ivanov\bin\Debug\PR5_Ivanov.exe
+D:\VS\PR5_Ivanov\bin\Debug\PR5_Ivanov.pdb
+D:\VS\PR5_Ivanov\obj\Debug\MainWindow.g.cs
+D:\VS\PR5_Ivanov\obj\Debug\App.g.cs
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov_MarkupCompile.cache
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov_MarkupCompile.lref
+D:\VS\PR5_Ivanov\obj\Debug\MainWindow.baml
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov.g.resources
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov.Properties.Resources.resources
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov.csproj.GenerateResource.cache
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov.exe
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov.pdb
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov.csproj.AssemblyReference.cache
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov.csproj.SuggestedBindingRedirects.cache
+D:\VS\PR5_Ivanov\obj\Debug\PR5_Ivanov.csproj.CoreCompileInputs.cache
